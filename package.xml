@@ -21,7 +21,7 @@ bar but allow the user to have better control over the look and feel.</descripti
   </maintainers>
   <release>
     <version>0.9.0beta1</version>
-    <date>2005-01-01</date>
+    <date>2005-01-11</date>
     <license>PHP License</license>
     <state>beta</state>
     <notes>Initial release.</notes>
@@ -30,12 +30,12 @@ bar but allow the user to have better control over the look and feel.</descripti
     <provides type="class" name="Gtk_Styled_VAdjustment" />
     <provides type="class" name="Gtk_Styled_ScrollBar" />
     <filelist>
-      <file role="php" baseinstalldir="Gtk/Styled/" md5sum="63e11ad00e4b9b51321da6339eda58c6" name="Adjustment.php"/>
-      <file role="php" baseinstalldir="Gtk/Styled/" md5sum="518a8cb8a26bd5b3d833d9b3e351a43e" name="HAdjustment.php"/>
-      <file role="php" baseinstalldir="Gtk/Styled/" md5sum="ea9ae8a361f340e300b97931d079a9ab" name="VAdjustment.php"/>
-      <file role="php" baseinstalldir="Gtk/Styled/" md5sum="9edb8d196502afd73ad33c688606d98b" name="ScrollBar.php"/>
-      <file role="data" baseinstalldir="Gtk/Styled/" md5sum="4bdf9b647be8e1ae997b30087038b8f8" name="Buttons.php"/>
-      <file role="doc" baseinstalldir="Gtk/Styled/" md5sum="797e57918a7b8e5202bb9f9f035ead9d" name="example.php"/>
+      <file role="php" baseinstalldir="Gtk/Styled/" name="Adjustment.php"/>
+      <file role="php" baseinstalldir="Gtk/Styled/" name="HAdjustment.php"/>
+      <file role="php" baseinstalldir="Gtk/Styled/" name="VAdjustment.php"/>
+      <file role="php" baseinstalldir="Gtk/Styled/" name="ScrollBar.php"/>
+      <file role="data" baseinstalldir="Gtk/Styled/" name="Buttons.php"/>
+      <file role="doc" baseinstalldir="Gtk/Styled/" name="example.php"/>
     </filelist>
   </release>
   <changelog>

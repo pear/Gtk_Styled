@@ -3,7 +3,7 @@
 // +----------------------------------------------------------------------+
 // | PHP Version 4                                                        |
 // +----------------------------------------------------------------------+
-// | Copyright (c) 2004 Scott Mattocks                                    |
+// | Copyright (c) 2005 Scott Mattocks                                    |
 // +----------------------------------------------------------------------+
 // | This source file is subject to version 3.0 of the PHP license,       |
 // | that is bundled with this package in the file LICENSE, and is        |
@@ -33,10 +33,10 @@
  * @author     Scott Mattocks <scottmattocks@php.net>
  * @version    @VER@
  * @category   Gtk
- * @package    Styled
+ * @package    Gtk_Styled
  * @subpackage Documentation
  * @license    PHP version 3.0
- * @copyright  Copyright &copy; 2004 Scott Mattocks
+ * @copyright  Copyright &copy; 2005 Scott Mattocks
  */
 
 // Load the extension.
