@@ -1,0 +1,25 @@
+{
+    "authors": [
+        {
+            "email": "scottmattocks@php.net",
+            "name": "Scott Mattocks",
+            "role": "Lead"
+        }
+    ],
+    "autoload": {
+        "classmap": [
+            "./"
+        ]
+    },
+    "description": "More info available on: http://pear.php.net/package/Gtk_Styled",
+    "license": "PHP License",
+    "name": "pear/gtk_styled",
+    "support": {
+        "issues": "http:///bugs/search.php?cmd=display&package_name[]=Gtk_Styled",
+        "source": "https://github.com/pear/Gtk_Styled"
+    },
+    "type": "library",
+    "require-dev": {
+        "phpunit/phpunit": "*"
+    }
+}
